@@ -1,0 +1,36 @@
+h1{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+
+h2, h3{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+
+p{
+    font-size: 14px;
+    font-family: monospace;
+    text-align: center;
+}
+
+#tetris, #title, #user_name{
+    margin-top: 15px;
+}
+#score, #user_name, #level{
+    display: inline-block;
+}
+div{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+ canvas{
+    display: block;
+    margin:0 auto;
+}
